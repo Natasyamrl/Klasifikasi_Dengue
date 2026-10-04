@@ -1,8 +1,8 @@
 # Klasifikasi_Dengue
-
-Judul Riset: OPTIMASI BAYESIAN PADA CATBOOST BERBASIS EXPLAINABLE ARTIFICIAL INTELLIGENCE UNTUK KLASIFIKASI PENYAKIT DENGUE
 Nama: Natasya Meryl Damayanti
 Program Studi: Informatika, UPN "Veteran" Jawa Timur
+
+Judul Riset: OPTIMASI BAYESIAN PADA CATBOOST BERBASIS EXPLAINABLE ARTIFICIAL INTELLIGENCE UNTUK KLASIFIKASI PENYAKIT DENGUE
 
 1. Formulasi Masalah
 Diagnosis awal penyakit dengue sulit dibedakan dari infeksi akut lain karena kemiripan gejala (demam, nyeri kepala, mual), sehingga penilaian kategori diagnosis dengue, demam dengue (DF) vs demam berdarah dengue (DHF) umumnya masih bergantung pada pemeriksaan klinis dan laboratorium manual oleh tenaga medis. Pada rumah sakit rujukan dengan volume pasien tinggi seperti RS Surabaya, dibutuhkan metode komputasi yang mampu membantu klasifikasi secara cepat, konsisten, dan dapat dipertanggungjawabkan secara klinis.
